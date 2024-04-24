@@ -141,7 +141,7 @@ aside > div.class {
   
   footer {
     background-image:linear-gradient(to bottom, var(--cor3), var(--cor5));
-    min-height: 30px;
+    min-height: 80px;
     padding-top: 10px;
     font-size: 15px;
     text-align: center;
